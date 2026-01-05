@@ -1,7 +1,5 @@
 # 🏢 FII Planner: Simulador de Renda Passiva
 
-![Dashboard do Simulador](images/Simulador FII.png)
-
 ## 📖 Sobre o Projeto
 
 Este projeto consiste em um simulador financeiro desenvolvido em **Excel**, focado na simulação de estratégias de investimento em Fundos Imobiliários (FIIs). 
